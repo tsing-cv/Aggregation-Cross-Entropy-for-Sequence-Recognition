@@ -38,3 +38,6 @@ Start training: (in 'source/' folder)
 
 ## Attention
 The project is only free for academic research purposes.
+
+## Reference
+https://github.com/summerlvsong/Aggregation-Cross-Entropy
